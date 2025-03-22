@@ -1,2 +1,2 @@
-# Signup_Signin_Flutter_App
-it's simple login and signup application by flutter
+# Flutter_App
+it's simple flutter application
